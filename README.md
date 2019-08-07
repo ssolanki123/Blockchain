@@ -1,7 +1,7 @@
 # Blockchain Web Application
 
 Created a single web page application to allow users to create a wallet that creates, loads and holds private and public keys. This helps to manage transaction signing and verification. 
-As new blocks are mined, users are rewarded with money and new blocks get added to a blockchain data structure.
+As new blocks are mined, users are rewarded with money and new blocks get added to a blockchain data structure. Users are allowed to engage in transactions to send money to recipients, Transactions are broadcasted from sender to receiver upon completing successfully. 
 
  ## Getting Started
  These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
